@@ -51,4 +51,10 @@
     * react-router-dom : 6.18.0
 
 
+## Base URL key name
+
+  * KEYNAME : REACT_APP_API_URL.
+  * vALUE : https://property-zone.onrender.com
+
+
 
